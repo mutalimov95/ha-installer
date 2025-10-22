@@ -22,7 +22,7 @@ restart: unless-stopped в compose
 
 📥 Как использовать:
 bash# 1. Скачайте скрипт на Orange Pi
-wget https://raw.githubusercontent.com/ваш-репо/ha-orangepi-install.sh
+wget https://raw.githubusercontent.com/mutalimov95/ha-installer/refs/heads/main/ha-install.sh
 # или скопируйте содержимое в файл
 
 # 2. Дайте права на выполнение
